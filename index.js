@@ -10,10 +10,11 @@ app.get("/", (req, res) => {
   res.send("JSON API is running...");
 });
 
-// JSON Serve from /data folder
+// Serve JSON from /data folder
 app.get("/data/:filename", (req, res) => {
   const filename = req.params.filename;
   const filePath = path.join(__dirname, "data", filename);
+
   if (fs.existsSync(filePath)) {
     res.sendFile(filePath);
   } else {
