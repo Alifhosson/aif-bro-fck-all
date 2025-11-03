@@ -15,9 +15,7 @@ return { error: "File not found" };
 };
 
 // API Routes
-app.get("/", (req, res) => {
-res.send("JSON API is running...");
-});
+
 
 // স্পেসিফিক JSON ফাইল রিটার্ন করবে
 app.get("/json/:filename", (req, res) => {
