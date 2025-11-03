@@ -1,0 +1,27 @@
+{
+  "site": {
+    "title": "TEAM UCA ADMINS 👨🏻‍💼",
+    "logo": "https://i.postimg.cc/j55dXHDX/uca-logo.webp"
+  },
+  "admins": [
+    {
+      "name": "Alif Hosson",
+      "photo": "https://i.postimg.cc/C1Cwp6bX/IMG-20251029-WA0158.jpg",
+      "intro": "Founder & Developer",
+      "facebook": "https://facebook.com/alifhosson.www.xnx.com0",
+      "telegram": "https://t.me/alifhosson"
+    },
+    {
+      "name": "Rakib Chowdhury",
+      "photo": "https://i.postimg.cc/V6ck7S9Y/FB-IMG-1762123511208.jpg",
+      "intro": "Cyber Expert & Designer",
+      "facebook": "https://www.facebook.com/SYSTEM.ERROR.KING",
+      "telegram": "#"
+    }
+  ],
+  "slider": [
+    "https://i.postimg.cc/k50SFXYc/Messenger-creation-787018254165491.jpg",
+    "https://i.postimg.cc/V6ck7S9Y/FB-IMG-1762123511208.jpg",
+    "https://i.postimg.cc/C1Cwp6bX/IMG-20251029-WA0158.jpg"
+  ]
+}
