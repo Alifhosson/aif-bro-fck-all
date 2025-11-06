@@ -1,0 +1,30 @@
+{
+  "about": {
+    "title": "About Team UCA",
+    "highlight": "Team UCA",
+    "full_name": "Underground Cyber Attacker",
+    "description": "Team UCA (Underground Cyber Attacker) is a dedicated group of cyber enthusiasts, ethical hackers, and digital explorers. Our journey began with a single goal — to master the unseen world of cybersecurity and use that knowledge to protect, educate, and inspire others.",
+    "mission_title": "Our Mission",
+    "mission": "We aim to spread cybersecurity awareness and build a community of skilled learners who use technology responsibly. Through innovation, collaboration, and ethics, Team UCA strives to create a safer and smarter digital future for everyone."
+  },
+  "social": {
+    "title": "Follow Us",
+    "links": [
+      {
+        "platform": "Facebook",
+        "icon": "fab fa-facebook-f",
+        "url": "https://facebook.com"
+      },
+      {
+        "platform": "Telegram",
+        "icon": "fab fa-telegram-plane",
+        "url": "https://t.me"
+      },
+      {
+        "platform": "GitHub",
+        "icon": "fab fa-github",
+        "url": "https://github.com"
+      }
+    ]
+  }
+}
